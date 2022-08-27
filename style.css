@@ -1,27 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
 
-body{
-    font-family: 'Inter', sans-serif;
-    background-color: aliceblue;
+body {
+  font-family: "Inter", sans-serif;
+  background-color: aliceblue;
 }
-.btnone{
-    width: 116px;
+.btnone {
+  width: 116px;
 }
-.btnone img{
-    margin-right: -20px;
-    height: 35px;
-    margin-top: 1px;
+.btnone img {
+  margin-right: -20px;
+  height: 35px;
+  margin-top: 1px;
 }
-.btnone:hover{
-    background: #293067;
+.btnone:hover {
+  background: #293067;
 }
 
-
-.bgimg{
+/* .bgimg{
     background-image: url(./Images/69678bc5.png);
     width: 1500px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 75vh;
-}
+} */
